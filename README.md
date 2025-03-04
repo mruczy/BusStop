@@ -2,5 +2,5 @@
 
 ## Description
 The project presents a model of a bus shelter created in SolidWorks software. 
-![Bus Shelter](wiata.jpg)
+![Bus Shelter](busstop.png)
 
